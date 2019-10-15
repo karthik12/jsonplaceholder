@@ -1,11 +1,12 @@
 {
-    "serverurl":"https://mdm.server.com",
-    "gid":"XYZ_Store_DC",
-    "un":"XYZ_store_%MODEL%",
-    "pw":"XYZ_Store_%MODEL%",
-    "deviceModelsMap": {
-        "G82":["G8323","G82320"],
-        "G83":["TC75","TC750"]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
     
