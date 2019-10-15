@@ -1,10 +1,11 @@
 {
-“serverurl”: “https://mdm.server.com“,
-“gid”: “XYZ_Store_DC”,
-“un”: “XYZ_Store_%MODEL%“,
-“pw”: “XYZ_Store_%MODEL%“,
-“deviceModelsMap”: {
-    “G82" : [“G8232”, “G82320"],
-    “G83” : [“TC75", “TC750”]
+    "serverurl":"https://mdm.server.com",
+    "gid":"XYZ_Store_DC",
+    "un":"XYZ_store_%MODEL%",
+    "pw":"XYZ_Store_%MODEL%",
+    "deviceModelsMap": {
+        "G82":["G8323","G82320"],
+        "G83":["TC75","TC750"]
+    }
 }
-}
+    
