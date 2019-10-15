@@ -1,12 +1,3 @@
 {
-  "serverurl": "https://mdm.server.com",
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "serverurl": "https://mdm.server.com"
 }
