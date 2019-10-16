@@ -1,4 +1,14 @@
 {
+  "localdiscovery" : {
+    "serverurl": "https://mdm.server.com",
+    "gid": "XYZ_Store_DC",
+    "un": "XYZ_Store_%MODEL%",
+    "pw": "XYZ_Store_%MODEL%",
+    "deviceModelsMap": {
+      "G82": ["G8343","G574"]
+      "G83": ["TC75","TC750"]
+    }
+  }
   "posts": [
     {
       "id": 1,
